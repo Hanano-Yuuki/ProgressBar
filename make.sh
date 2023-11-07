@@ -1,1 +1,0 @@
-g++ -I./include example.cpp -o main
